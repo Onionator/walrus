@@ -1,0 +1,36 @@
+.walrus-showing {
+  display: none;
+}
+
+#showImg, #hideImg {
+  color: red;
+  text-decoration: underline;
+  padding: 3px;
+  width: 300px;
+  text-align: center;
+  font-size: 50px;
+  background-color: lightgrey;
+  border-radius: 13px;
+}
+#showImg:hover, #hideImg:hover {
+  cursor: pointer;
+  color: lightblue;
+  background-color: #ff00ff;
+}
+img {
+  width: 500px;
+  height: auto;
+}
+
+#expandingText {
+  display: none;
+}
+
+#showText {
+  color: blue;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 80px;
+}
